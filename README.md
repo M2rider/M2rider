@@ -1,8 +1,7 @@
-
-![github bg](https://github.com/M2rider/M2rider/assets/129592380/a45cd79e-37a0-4593-8c2d-34eb4afb4bed)
-
 <h1 align="center">Hi 👋, I'm Mayank Singhal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+
+![github bg](https://github.com/M2rider/M2rider/assets/129592380/a45cd79e-37a0-4593-8c2d-34eb4afb4bed)
 
 - 🔭 I am interested in **Programming and Development**
 
